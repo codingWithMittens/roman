@@ -18,7 +18,7 @@ const App = () => {
         { isValid ? (
           <>
             <h2>Result</h2>
-            { isRoman ?  roman2dec(inputValue) : dec2roman(inputValue) }
+            <h1>{ isRoman ?  roman2dec(inputValue) : dec2roman(inputValue) }</h1>
           </>
         ) : (
           inputValue.length ? (<div>
