@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roman/static/css/main.bb711c8d.css",
+    "main.js": "/roman/static/js/main.55238efd.js",
+    "static/js/787.647edac2.chunk.js": "/roman/static/js/787.647edac2.chunk.js",
+    "index.html": "/roman/index.html",
+    "main.bb711c8d.css.map": "/roman/static/css/main.bb711c8d.css.map",
+    "main.55238efd.js.map": "/roman/static/js/main.55238efd.js.map",
+    "787.647edac2.chunk.js.map": "/roman/static/js/787.647edac2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb711c8d.css",
+    "static/js/main.55238efd.js"
+  ]
+}
